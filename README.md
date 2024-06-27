@@ -26,10 +26,10 @@ In this project, I conducted an exploratory data analysis (EDA) on electric vehi
 ### Link to the Project Repository:
 https://github.com/VaishDeshpande234/Electric_Vehicle_Registrations_Project
 
-## Project 2: Predictive Maintenance using Machine Learning
+## Project 2: Predictive Maintenance for Turbofan Engine using Machine Learning
 
 ### Project Overview:
-The goal of this project is to predict the Remaining Useful Life (RUL) of aircraft engines based on sensor data. Predictive maintenance helps identify the point at which an engine is likely to fail, allowing for timely maintenance to prevent failures and optimize maintenance schedules.
+The goal of this project is to predict the Remaining Useful Life (RUL) of Turbofan engines based on sensor data. Predictive maintenance helps identify the point at which an engine is likely to fail, allowing for timely maintenance to prevent failures and optimize maintenance schedules.
 
 ### Key Highlights:
 - **Data Preprocessing**: Loaded and cleaned the training, test, and RUL datasets.
