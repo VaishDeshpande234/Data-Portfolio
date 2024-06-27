@@ -42,9 +42,11 @@ The goal of this project is to predict the Remaining Useful Life (RUL) of aircra
 - Scikit-learn for machine learning models.
 - Keras for LSTM model.
 
+### Link to the Project Repository:
+https://github.com/VaishDeshpande234/Predictive-Maintenance
+
 ### Next Steps:
 I am currently expanding my portfolio with more projects in data science and machine learning. Stay tuned for updates!
 
 ### Contact Information
-
 Feel free to reach out to me via LinkedIn(https://www.linkedin.com/in/vaishnavi-deshpande-477392297/) or Email(deshpandevaish2310@gmail.com).
