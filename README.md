@@ -26,6 +26,22 @@ In this project, I conducted an exploratory data analysis (EDA) on electric vehi
 ### Link to the Project Repository:
 https://github.com/VaishDeshpande234/Electric_Vehicle_Registrations_Project
 
+## Project 2: Predictive Maintenance using Machine Learning
+
+### Project Overview:
+The goal of this project is to predict the Remaining Useful Life (RUL) of aircraft engines based on sensor data. Predictive maintenance helps identify the point at which an engine is likely to fail, allowing for timely maintenance to prevent failures and optimize maintenance schedules.
+
+### Key Highlights:
+- **Data Preprocessing**: Loaded and cleaned the training, test, and RUL datasets.
+- **Feature Engineering**: Calculated RUL for the training dataset and prepared the test dataset.
+- **Model Training and Evaluation**: Trained Random Forest, Gradient Boosting, and LSTM models. Evaluated models using RMSE and MAE metrics.
+
+### Technologies Used:
+- Python for data analysis and scripting.
+- Pandas, Matplotlib, Seaborn for data manipulation and visualization.
+- Scikit-learn for machine learning models.
+- Keras for LSTM model.
+
 ### Next Steps:
 I am currently expanding my portfolio with more projects in data science and machine learning. Stay tuned for updates!
 
