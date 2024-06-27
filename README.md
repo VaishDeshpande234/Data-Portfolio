@@ -31,4 +31,4 @@ I am currently expanding my portfolio with more projects in data science and mac
 
 ### Contact Information
 
-Feel free to reach out to me via [LinkedIn](linkedin.com/in/vaishnavi-deshpande-477392297) or Email(deshpandevaish2310@gmail.com).
+Feel free to reach out to me via LinkedIn(linkedin.com/in/vaishnavi-deshpande-477392297) or Email(deshpandevaish2310@gmail.com).
