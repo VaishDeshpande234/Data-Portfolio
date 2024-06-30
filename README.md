@@ -35,6 +35,7 @@ The goal of this project is to predict the Remaining Useful Life (RUL) of Turbof
 - **Data Preprocessing**: Loaded and cleaned the training, test, and RUL datasets.
 - **Feature Engineering**: Calculated RUL for the training dataset and prepared the test dataset.
 - **Model Training and Evaluation**: Trained Random Forest, Gradient Boosting, and LSTM models. Evaluated models using RMSE and MAE metrics.
+- **Visualizations**: Created scatter plots comparing predicted and ground truth RUL, histograms of engine cycle distributions, and correlation matrices of features to analyze model performance and data relationships.
 
 ### Technologies Used:
 - Python for data analysis and scripting.
