@@ -57,7 +57,10 @@ The goal of this project is to perform sentiment analysis on a large dataset of 
 - **Feature Engineering**: Preprocessed text data by converting text to lowercase, replacing URLs, emojis, and usernames with placeholders, removing non-alphanumeric characters and stopwords, and lemmatizing words. Converted text data into numerical features using TF-IDF.
 - **Model Training and Evaluation**: Split the data into training and test sets. Trained three models (Bernoulli Naive Bayes, LinearSVC, and Logistic Regression) and evaluated them using precision, recall, f1-score, and confusion matrix.
 - **Results**: Achieved good accuracy and performance across all models, with Logistic Regression performing the best with an accuracy of 0.83.
-- **Visualizations**: Created word clouds for negative and positive tweets to visualize the most common words associated with each sentiment.
+- **Visualizations**:
+    1. Word Cloud for Negative Tweets: Visual representation of the most frequent words in negative tweets.
+    2. Word Cloud for Positive Tweets: Visual representation of the most frequent words in positive tweets.
+    3. Confusion Matrix: Heatmap of the confusion matrix showing the performance of the models in terms of true positives, false positives, false negatives, and true negatives.
 
 ### Technologies Used:
 
@@ -67,6 +70,7 @@ The goal of this project is to perform sentiment analysis on a large dataset of 
 - NLTK for natural language processing.
 
 ### Link to the Project Repository:
+https://github.com/VaishDeshpande234/Sentiment-Analysis
 
 ### Next Steps:
 I am currently expanding my portfolio with more projects in data science and machine learning. Stay tuned for updates!
