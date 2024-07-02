@@ -4,7 +4,7 @@ Welcome to my data portfolio!
 
 ### About Me
 
-I am a results-oriented data scientist with a strong academic background and practical experience in data analysis and engineering. I am proficient in Python, R, SQL, and have hands-on experience in machine learning and deep learning frameworks such as PyTorch and TensorFlow. My goal is to leverage data-driven insights to tackle complex challenges and drive strategic decision-making.
+I am a results-oriented data scientist with a strong academic background and practical experience in data analysis and engineering. I am proficient in Python, SQL, and have hands-on experience in machine learning and deep learning frameworks such as PyTorch and TensorFlow. My goal is to leverage data-driven insights to tackle complex challenges and drive strategic decision-making.
 
 Below are details of the projects I've worked on:
 
