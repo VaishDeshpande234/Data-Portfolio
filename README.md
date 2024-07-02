@@ -46,6 +46,28 @@ The goal of this project is to predict the Remaining Useful Life (RUL) of Turbof
 ### Link to the Project Repository:
 https://github.com/VaishDeshpande234/Predictive-Maintenance
 
+## Project 3: Sentiment Analysis on Twitter Dataset Using Machine Learning
+
+### Project Overview:
+The goal of this project is to perform sentiment analysis on a large dataset of tweets to classify them as positive or negative. Sentiment analysis helps in understanding the sentiment of users towards specific topics, brands, or events, enabling better decision-making and strategy formulation.
+
+### Key Highlights:
+
+- **Data Preprocessing and EDA**: Loaded the dataset, removed unnecessary columns, replaced sentiment values for better understanding, and created word clouds for negative and positive tweets.
+- **Feature Engineering**: Preprocessed text data by converting text to lowercase, replacing URLs, emojis, and usernames with placeholders, removing non-alphanumeric characters and stopwords, and lemmatizing words. Converted text data into numerical features using TF-IDF.
+- **Model Training and Evaluation**: Split the data into training and test sets. Trained three models (Bernoulli Naive Bayes, LinearSVC, and Logistic Regression) and evaluated them using precision, recall, f1-score, and confusion matrix.
+- **Results**: Achieved good accuracy and performance across all models, with Logistic Regression performing the best with an accuracy of 0.83.
+- **Visualizations**: Created word clouds for negative and positive tweets to visualize the most common words associated with each sentiment.
+
+### Technologies Used:
+
+- Python for data analysis and scripting.
+- Pandas, Matplotlib, Seaborn for data manipulation and visualization.
+- Scikit-learn for machine learning models.
+- NLTK for natural language processing.
+
+### Link to the Project Repository:
+
 ### Next Steps:
 I am currently expanding my portfolio with more projects in data science and machine learning. Stay tuned for updates!
 
